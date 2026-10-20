@@ -1,0 +1,1 @@
+import WishlistView from '@/components/wishlist-view';export default function Wishlist(){return <div className="container-shop py-12"><h1 className="text-4xl font-extrabold mb-9">Your wishlist</h1><WishlistView/></div>}

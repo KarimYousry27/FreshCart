@@ -1,0 +1,1 @@
+import OrdersView from '@/components/orders-view';export default function Orders(){return <div className="container-shop py-12"><h1 className="text-4xl font-extrabold mb-9">My orders</h1><OrdersView/></div>}

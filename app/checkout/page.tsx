@@ -1,0 +1,1 @@
+import CheckoutForm from '@/components/checkout-form';export default function Checkout(){return <div className="container-shop py-12"><h1 className="text-4xl font-extrabold mb-9">Secure checkout</h1><CheckoutForm/></div>}

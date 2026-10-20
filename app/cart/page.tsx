@@ -1,0 +1,1 @@
+import CartView from '@/components/cart-view';export default function Cart(){return <div className="container-shop py-12"><h1 className="text-4xl font-extrabold mb-9">Your shopping cart</h1><CartView/></div>}
